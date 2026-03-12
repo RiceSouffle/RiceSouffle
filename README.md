@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hey, I'm Sef
 
-<!--
-**RiceSouffle/RiceSouffle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer from Sydney. Macquarie University grad (Honours, Software Engineering).
+I build mobile apps that feel good to use — warm aesthetics, thoughtful UX, and clean architecture.
 
-Here are some ideas to get you started:
+Previously interned at **IBM** and **CAVR**, worked contract at **Rose Engineering**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I've Built
+
+**[NootPad](https://github.com/RiceSouffle/NootPad)** — A cozy note-taking app with AI features powered by Anthropic Claude. Rich text editing, interactive checklists, pastel cards, smart search, and auto-save. Built with Flutter.
+
+**[FirePlace](https://github.com/RiceSouffle/FirePlace)** — Instagram alternative with curated Reddit content
+
+**[Podoro](https://github.com/RiceSouffle/podoro)** — A cute Pomodoro timer app
+
+**[Dying Daylight](https://github.com/RiceSouffle/Dying-Daylight)** — A quiet app that delivers one daily reflection
+
+## Tech
+
+`Flutter` `Dart` `TypeScript` `React` `Node.js` `Python` `Java` `SQLite` `Firebase` `Docker` `AWS`
+
+## Outside of Code
+
+Building Gundam kits | Sim racing | Mechanical keyboards | PC building | Photography | Dota 2 | Cycling | Die-cast collecting | Chasing the perfect audio setup
+
