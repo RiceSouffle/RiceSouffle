@@ -3,7 +3,7 @@
 Software Engineer from Sydney. Macquarie University grad (Honours, Software Engineering).
 I build mobile apps that feel good to use — warm aesthetics, thoughtful UX, and clean architecture.
 
-Previously interned at **IBM** and **CAVR**, worked contract at **Rose Engineering**.
+Previously interned at **IBM** and **CAVR**.
 
 ## What I've Built
 
@@ -17,7 +17,7 @@ Previously interned at **IBM** and **CAVR**, worked contract at **Rose Engineeri
 
 ## Tech
 
-`Flutter` `Dart` `TypeScript` `React` `Node.js` `Python` `Java` `SQLite` `Firebase` `Docker` `AWS`
+`Flutter` `Dart` `TypeScript` `React` `Node.js` `Python` `Java` `SQLite` `Firebase` `Docker`
 
 ## Outside of Code
 
