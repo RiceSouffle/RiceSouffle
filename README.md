@@ -1,8 +1,3 @@
-
-
-> *"The best things are built at 3am with 2 cans of white monster"*
-
-
 ## 🏝️ About
 
 **Sef** — Software Engineer, Sydney.
@@ -14,9 +9,13 @@ Previously: **IBM** · **CAVR**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a5ef/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sefco.work@gmail.com)
 
+
+> *"The best things are built at 3am with 2 cans of white monster"*
+
+
 <br>
 
-## 🏠 Projects
+## 🏠 Some of my Projects
 
 <table>
 <tr>
@@ -63,7 +62,7 @@ A cute Pomodoro timer. Because productivity tools don't have to look like spread
 
 <br>
 
-## 🎒 What's in my Pockets
+## 🎒 Experience with
 
 
 Frontend Flutter · React · TypeScript · Dart
