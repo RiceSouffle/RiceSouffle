@@ -1,26 +1,7 @@
-<div align="center">
-<pre>
-  ┌─────────────────────────────────────────┐
-  │                                         │
-  │   🍃 Welcome to Sef's Island 🍃        │
-  │                                         │
-  │   I like building things.               │
-  │                                         │
-  │   Sometimes it's apps.                  │
-  │   Sometimes it's keyboards.             │
-  │   Sometimes it's Gundam kits at 2am.    │
-  │                                         │
-  │   Come in, look around.                 │
-  │                                         │
-  └─────────────────────────────────────────┘
-</pre>
-</div>
 
-<br>
 
 > *"The best things are built at 3am with 2 cans of white monster"*
 
-<br>
 
 ## 🏝️ About
 
