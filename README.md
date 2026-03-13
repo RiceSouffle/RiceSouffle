@@ -13,54 +13,7 @@ Previously: **IBM** · **CAVR**
 > *"The best things are built at 3am with 2 cans of white monster"*
 
 
-<br>
 
-## 🏠 Some of my Projects
-
-<table>
-<tr>
-<td width="50%">
-<br>
-<b>🍃 <a href="https://github.com/RiceSouffle/NootPad">NootPad</a></b>
-<br><br>
-A cozy note-taking app with AI powered by Claude. Rich text, interactive checklists, pastel aesthetic, smart search across all your notes, auto-save — the note app I actually wanted to use.
-<br><br>
-<code>Flutter</code> <code>Claude API</code> <code>SQLite</code> <code>Provider</code>
-<br><br>
-</td>
-<td width="50%">
-<br>
-<b>🔥 <a href="https://github.com/RiceSouffle/FirePlace">FirePlace</a></b>
-<br><br>
-Instagram alternative with curated Reddit content. Scroll through the good stuff without the algorithm deciding your mood.
-<br><br>
-<code>Flutter</code> <code>Dart</code> <code>Reddit API</code>
-<br><br>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<br>
-<b>🌅 <a href="https://github.com/RiceSouffle/Dying-Daylight">Dying Daylight</a></b>
-<br><br>
-A quiet app that delivers one daily reflection. No feeds, no notifications, no noise. Just one thought per day.
-<br><br>
-<code>TypeScript</code>
-<br><br>
-</td>
-<td width="50%">
-<br>
-<b>🍅 <a href="https://github.com/RiceSouffle/podoro">Podoro</a></b>
-<br><br>
-A cute Pomodoro timer. Because productivity tools don't have to look like spreadsheets.
-<br><br>
-<code>Flutter</code> <code>Dart</code>
-<br><br>
-</td>
-</tr>
-</table>
-
-<br>
 
 ## 🎒 Experience with
 
@@ -72,7 +25,7 @@ Cloud AWS · Azure · Docker .
 Claude API · OpenAI API
 
 
-<br>
+
 
 ## 🎣 After Hours
 
