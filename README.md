@@ -3,7 +3,7 @@
 **Sef** — Software Engineer, Sydney.
 BE (Honours) Software Engineering @ Macquarie University.
 
-I care about how things feel. An app should feel as satisfying to use as a perfectly lubed keyboard switch or a well-posed MG Barbatos. I build software with the same attention to detail I give my hobbies — because the craft is the point.
+I care about how things feel. An app should feel as satisfying to use as a perfectly lubed keyboard switch or a well-posed MG Barbatos. I build software with the same attention to detail I give my hobbies, because the craft is the point.
 
 Previously: **IBM** · **CAVR** 
 
