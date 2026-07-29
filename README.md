@@ -19,12 +19,16 @@ https://sefdev.com/
 
 ## 🎒 Experience with
 
-
-Frontend Flutter · React · TypeScript · Dart
-Backend Node.js · Python · Express · Java
-Data SQLite · Firebase · SQL
-Cloud AWS · Azure · Docker .
-Claude API · OpenAI API
+|                |                                                                                              |
+| -------------- | -------------------------------------------------------------------------------------------- |
+| 🧠 **AI / LLM** | RAG (hybrid retrieval · RRF · reranking) · agents on LangGraph · MCP server + client · evals · guardrails · Claude / OpenAI / Ollama |
+| 🔬 **ML**       | PyTorch · transformers from scratch (RoPE · GQA · KV-cache) · BPE tokenizers · kNN-LM retrieval · LoRA/PEFT |
+| ⌨️ **Languages** | Python · TypeScript · Dart · Java · Go · SQL                                                 |
+| ⚙️ **Backend**  | FastAPI · Node.js · Express · REST · GraphQL · SSE streaming                                  |
+| 🎨 **Frontend** | Next.js · React · Tailwind · shadcn/ui                                                        |
+| 📱 **Mobile**   | Flutter · Android (Java) · PWAs                                                               |
+| 🗄️ **Data**     | Postgres/pgvector · Qdrant · Redis · SQLite · Firebase                                       |
+| ☁️ **Infra**    | Docker · Kubernetes · GitHub Actions · AWS · Azure · Langfuse · Prometheus                    |
 
 
 
