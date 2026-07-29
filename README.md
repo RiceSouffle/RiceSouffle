@@ -1,9 +1,13 @@
 ## 🏝️ About
 
-**Sef** — Software Engineer, Sydney.
+**Sef** — AI & Software Engineer, Sydney.
 BE (Honours) Software Engineering @ Macquarie University.
 
 I care about how things feel. An app should feel as satisfying to use as a perfectly lubed keyboard switch or a well-posed MG Barbatos. I build software with the same attention to detail I give my hobbies, because the craft is the point.
+
+Lately that instinct has pointed at AI systems, where "feels right" isn't good
+enough on its own. The interesting part is proving it: evals, ablations, and
+numbers you can reconstruct yourself.
 
 Previously: **IBM** · **CAVR** 
 
